@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">📊 Github Stats</h3>
-<div align="center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-Lee-Kim&show_icons=true&theme=vue)
-</div>
-
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -36,6 +30,14 @@ Here are some ideas to get you started:
   -->
   <br>
 </p>
+
+
+<h3 align="center">📊 Github Stats</h3>
+<div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJ-Lee-Kim&show_icons=true&theme=vue)
+</div>
+
 
 <!--
 <h3 align="center">social account</h3>
