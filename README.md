@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">YEJI</h2>
-
+-->
 
 <!--
 **YJ-Lee-Kim/YJ-Lee-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,25 +23,26 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <br>  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <br> 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <br>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <!--
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  -->
+
+
   <br>
 </p>
 
-
+<!--
 <h3 align="center">📊 Github Stats</h3>
 <div align="center">
 
   ![YEJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzwv&show_icons=true&theme=vue)
 </div>
+-->
 
 <!--
 <h3 align="center">💚 Social Account</h3>
@@ -52,4 +53,3 @@ Here are some ideas to get you started:
 </p>
 -->
 
--->
